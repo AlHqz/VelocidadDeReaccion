@@ -64,7 +64,7 @@ namespace Proyecto
             // 
             this.dtpBuscador.Format = System.Windows.Forms.DateTimePickerFormat.Short;
             this.dtpBuscador.Location = new System.Drawing.Point(651, 37);
-            this.dtpBuscador.MaxDate = new System.DateTime(2024, 9, 12, 0, 0, 0, 0);
+            this.dtpBuscador.MaxDate = new System.DateTime(2099, 12, 31, 0, 0, 0, 0);
             this.dtpBuscador.Name = "dtpBuscador";
             this.dtpBuscador.Size = new System.Drawing.Size(137, 22);
             this.dtpBuscador.TabIndex = 3;
