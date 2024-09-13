@@ -122,7 +122,7 @@ namespace Proyecto
             this.Controls.Add(this.btnBuscar);
             this.Controls.Add(this.btnSalir);
             this.Name = "MostrarDatos";
-            this.Text = "MostrarDatos";
+            this.Text = "Registro";
             this.groupBox1.ResumeLayout(false);
             this.ResumeLayout(false);
 
