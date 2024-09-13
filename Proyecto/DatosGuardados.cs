@@ -13,7 +13,7 @@ namespace Proyecto
 {
     public class DatosGuardados
     {
-        private string ruta = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "//Tareas.xml";
+        private string ruta = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "//Registro.xml";
 
         public void GuardarDatos(double[] total, double promedio)
         {
